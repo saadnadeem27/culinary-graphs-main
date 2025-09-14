@@ -7,6 +7,11 @@ A cutting-edge, luxury nutrition tracking application built with modern web tech
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.0-blue)
 
+<!-- Portfolio preview image: place your screenshot at `public/portfolio-preview.png` -->
+![Portfolio Preview](public/culniary-portfolio.png)
+
+_Screenshot: luxury nutrition analytics dashboard (place image at `public/culniary-portfolio.png` to display here)._ 
+
 ## ✨ Features
 
 ### 🎨 Premium Design System
