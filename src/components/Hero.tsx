@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, BarChart3, Target, Utensils } from "lucide-react";
+import { Link } from "react-router-dom";
 import heroImage from "@/assets/hero-nutrition.jpg";
 
 export function Hero() {
@@ -50,14 +51,18 @@ export function Hero() {
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 md:gap-8 justify-center mb-12 md:mb-20 px-4">
-            <Button variant="hero" size="xl" className="group">
-              Start Your Journey Today
-              <ArrowRight className="ml-3 group-hover:translate-x-2 transition-all duration-300" />
-            </Button>
-            <Button variant="luxury" size="xl" className="group">
-              <BarChart3 className="mr-3 group-hover:scale-110 transition-all duration-300" />
-              View Live Dashboard
-            </Button>
+            <Link to="/meals">
+              <Button variant="hero" size="xl" className="group">
+                Start Your Journey Today
+                <ArrowRight className="ml-3 group-hover:translate-x-2 transition-all duration-300" />
+              </Button>
+            </Link>
+            <Link to="/analytics">
+              <Button variant="luxury" size="xl" className="group">
+                <BarChart3 className="mr-3 group-hover:scale-110 transition-all duration-300" />
+                View Live Dashboard
+              </Button>
+            </Link>
           </div>
           
           {/* Luxury Features Grid */}
