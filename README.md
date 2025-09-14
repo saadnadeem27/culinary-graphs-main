@@ -54,9 +54,9 @@ A cutting-edge, luxury nutrition tracking application built with modern web tech
 - **PostCSS** - CSS processing and optimization
 - **React Router** - Client-side routing
 
-## 📱 Demo
+<!-- ## 📱 Demo
 
-🔗 **Live Demo**: [View Live Application](https://lovable.dev/projects/df8c71a6-c543-4653-85a5-a97af983de08)
+🔗 **Live Demo**: [View Live Application](link here) -->
 
 *Experience the premium nutrition tracking platform with interactive charts, luxury animations, and responsive design.*
 
@@ -188,8 +188,6 @@ npm i -g vercel
 vercel --prod
 ```
 
-### Deploy via Lovable
-Simply open [Lovable](https://lovable.dev/projects/df8c71a6-c543-4653-85a5-a97af983de08) and click Share → Publish
 
 ## 📈 Performance Features
 
@@ -213,13 +211,13 @@ This is a portfolio project showcasing modern web development practices. Suggest
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## 👨‍💻 Developer
+<!-- ## 👨‍💻 Developer
 
 **[Your Name]**
 - Portfolio: [yourportfolio.com]
 - LinkedIn: [your-linkedin-profile]
 - GitHub: [@yourusername]
-- Email: your.email@domain.com
+- Email: your.email@domain.com -->
 
 ---
 
